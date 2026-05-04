@@ -1,6 +1,17 @@
 {
-  "bjp": 148,
-  "tmc": 102,
-  "others": 5,
-  "updatedAt": "Now From West Bengal"
+  "bjp": 119,
+  "tmc": 111,
+  "others": 0,
+  "updatedAt": "Now",
+  "cmSeat": {
+    "seat": "Bhabanipur",
+    "tmcName": "Mamata Banerjee",
+    "bjpName": "Suvendu Adhikari",
+    "tmcVotes": Losing,
+    "bjpVotes": Winning,
+    "leading": "Suvendu Adhikari (BJP)",
+    "margin": N/A,
+    "status": "Mamata Banerjee trailing"
+  },
+  "flash": "BIG UPDATE: Mamata Banerjee is trailing in Bhabanipur against BJP leader Suvendu Adhikari •"
 }
